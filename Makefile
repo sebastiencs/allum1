@@ -5,7 +5,7 @@
 ## Login   <chapui_s@epitech.eu>
 ## 
 ## Started on  Thu Feb  6 11:39:35 2014 chapui_s
-## Last update Thu Feb 13 13:39:22 2014 chapui_s
+## Last update Thu Feb 13 14:04:11 2014 chapui_s
 ##
 
 SRC	= main.c \
@@ -29,7 +29,7 @@ SRC	= main.c \
 
 NAME	= allum1
 
-CFLAGS	= -lncurses -ggdb
+CFLAGS	= -lncurses
 
 OBJ	= $(SRC:.c=.o)
 
